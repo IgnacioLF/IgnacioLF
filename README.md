@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Ignacio Lopez</h1>
+<h1 align="center">Hola 👋, soy Ignacio Lopez</h1>
 <h3 align="center">Desarrollador web</h3>
 
 - 📫 Contactame **ignaciolopezfeliu@gmail.com**
@@ -156,5 +156,3 @@
       />
     </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ignaciolf&show_icons=true&locale=en&layout=compact" alt="ignaciolf" /></p>
